@@ -14,11 +14,16 @@
       "username": "arey",
       "password": "5",
       "nomor": "6287777222996"
-    },
+    }, 
     {
       "username": "adnan",
       "password": "6",
       "nomor": "6287817676124"
+    }, 
+    {
+      "username": "Denny",
+      "password": "1",
+      "nomor": "6285183652079"
     }
   ]
 }

@@ -14,12 +14,12 @@
       "username": "arey",
       "password": "5",
       "nomor": "6287777222996"
-    }, 
+    },
     {
       "username": "adnan",
       "password": "6",
       "nomor": "6287817676124"
-    }, 
+    },
     {
       "username": "Denny",
       "password": "1",
@@ -57,7 +57,7 @@
     },
     {
       "username": "Roy",
-      "password": "10", 
+      "password": "10",
       "nomor": "6283846335100"
     },
     {
@@ -136,7 +136,7 @@
       "nomor": "6285811363236"
     },
     {
-       "username": "yanzz3",
+      "username": "yanzz3",
       "password": "27",
       "nomor": "6283161504697"
     },
@@ -214,6 +214,11 @@
       "username": "Satz6",
       "password": "42",
       "nomor": "6287894344961"
+    },
+    {
+      "username": "bawok",
+      "password": "bawok",
+      "nomor": "6288225306121"
     }
   ]
 }

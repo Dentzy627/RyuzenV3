@@ -278,7 +278,7 @@
     {
     "username": "per", 
       "password": "55",
-      "nomor": "62882009920992"
+      "nomor": "62882009220992"
     },
     {
       "username": "satz10", 
@@ -288,7 +288,7 @@
     {
       "username": "math2", 
       "password": "57",
-      "nomor": "629510900977"
+      "nomor": "639510900977"
     },
     {
       "username": "joo", 
@@ -299,6 +299,11 @@
       "username": "wizz", 
       "password": "59",
       "nomor": "6281217647970"
+    },
+    {
+      "username": "denny", 
+      "password": "60",
+      "nomor": "6281233219937"
     }
   ]
 }
